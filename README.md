@@ -30,7 +30,9 @@
 
 **📫 Vamos conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-canechia/)
+<a href="(https://www.linkedin.com/in/gabriel-canechia/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>
 
 </div>
 
